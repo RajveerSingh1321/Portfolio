@@ -4,8 +4,8 @@ export const data = [
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNnKb5dCzEQl5jiA9BCYSJxZO0n4p70_TOXA&s",
     title: "Ecommerce Website",
     desc: "",
-    link: "",
-    git: "",
+    link: "https://e-commerce-frontend-six-phi.vercel.app/",
+    git: "https://github.com/RajveerSingh1321/ECommerce-Frontend",
   },
   {
     id: 2,
